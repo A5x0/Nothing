@@ -1,1 +1,1 @@
-This repo has nothing in it. Or, at least, no code.
+This repo has nothing in it. Or, at least, no code. If you clone this repo, you get the most space-efficient and scalable utility for building applications ever created. It is so compact that it can fit onto a floppy disk's boot sector.
